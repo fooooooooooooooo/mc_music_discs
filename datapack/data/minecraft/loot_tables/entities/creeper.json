@@ -1,0 +1,353 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:gunpowder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:1, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Key\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:2, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Subwoofer Lullaby\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:3, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Living Mice\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:4, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Haggstrom\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:5, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Minecraft\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:6, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Oxygène\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:7, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Mice On Venus\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Dry Hands\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:9, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Wet Hands\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:10, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Clark\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:11, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Sweden\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:12, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Danny\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:13, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Alpha\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:14, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Dead Voxel\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:15, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Blind Spots\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:16, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Moog City 2\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:17, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Concrete Halls\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:18, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Biome Fest\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:19, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Mutation\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:20, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Haunt Muskie\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:21, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Warmth\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:22, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Floating Trees\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:23, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Aria Math\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:24, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Ballad Of The Cats\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:25, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Taswell\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:26, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Beginning 2\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:27, HideFlags:32, display:{Lore:[\"\\\"§7C418 - Dreiton\\\"\"]}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:28, HideFlags:32, display:{Lore:[\"\\\"§7C418 - The End\\\"\"]}}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "predicate": {
+            "type": "#minecraft:skeletons"
+          },
+          "entity": "killer"
+        }
+      ]
+    }
+  ]
+}
